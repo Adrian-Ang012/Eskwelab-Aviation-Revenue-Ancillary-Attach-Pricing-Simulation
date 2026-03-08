@@ -1,6 +1,5 @@
 # Eskwelab-Aviation-Revenue-Ancillary-Attach-Pricing-Simulation
 
-Aviation Revenue & Ancillary Pricing Simulation
 This repository contains a high-fidelity synthetic data engine designed for Revenue Management and Ancillary Product Analysis. By simulating passenger decision-making based on economic "first principles," this project allows analysts to test pricing strategies, model consumer behavior, and perform feature importance analysis without the constraints of PII or limited real-world datasets.
 
 Project Architecture
