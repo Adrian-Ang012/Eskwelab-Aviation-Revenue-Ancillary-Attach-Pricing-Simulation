@@ -5,7 +5,7 @@ This repository contains a high-fidelity synthetic data engine designed for Reve
 Project Architecture
 The project is divided into two decoupled modules to ensure scalability and reproducibility:
 
-The Generation Engine (ESKWELAB.ipynb): A class-based Python simulation that generates synthetic booking, offer, and conversion logs. It embeds causal behaviors such as the "Elena Ceiling" (price sensitivity cliffs) and "Basket Reinforcement" (sequential purchase priming).
+The Generation Engine (data_generation.ipynb): A class-based Python simulation that generates synthetic booking, offer, and conversion logs. It embeds causal behaviors such as the "Elena Ceiling" (price sensitivity cliffs) and "Basket Reinforcement" (sequential purchase priming).
 
 The Analytical Showcase (Showcase_Analysis.ipynb): A self-contained notebook designed for EDA and ML validation. It consumes the output of the generator to perform revenue optimization and predictive modeling.
 
